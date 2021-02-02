@@ -1,0 +1,8 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+}
+img {
+    border: 3px groove green;
+    padding: 2px;
+}
